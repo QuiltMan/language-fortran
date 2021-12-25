@@ -10,6 +10,7 @@
   'F03'
   'f08'
   'F08'
+  ‘cuf’
 ]
 'firstLineMatch': '(?i)-[*]- mode: fortran free -[*]-'
 'injections':
