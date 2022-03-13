@@ -2,6 +2,8 @@
 'name': 'Fortran - Free Form'
 'scopeName': 'source.fortran.free'
 'fileTypes': [
+  'cuf'
+  'CUF'
   'f90'
   'F90'
   'f95'
